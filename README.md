@@ -24,7 +24,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,ubuntu,arch,github,gitlab,git,jenkins,prometheus,grafana,terraform,nginx,mongodb,postgres,redis,,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,ubuntu,arch,github,gitlab,git,jenkins,prometheus,grafana,terraform,nginx,mongodb,postgres,redis,cloudflare" />
     <img src="https://skillicons.dev/icons?i=bash,vscode,c,cpp,java,androidstudio" /><br>
 </div>
 
